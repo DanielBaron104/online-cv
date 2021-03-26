@@ -42,14 +42,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    Biomedical Engineer from the Universidad de los Andes with knowledge in the implementation of embedded systems using different device programming platforms such as FPGA, arduino, PIC microcontrollers and Raspberry Pi. Experience in data analysis and programming of Machine Learning algorithms. Experience in the analysis of control systems,     signal processing, image analysis, system modeling, programming in different programming languages and tools such as Python, C ++, SQL, Spark, Google Cloud Platform and Verilog.     Leadership skills, achievement-oriented planning, and algorithmic thinking. Interest in the area of robotics, design and manufacture of prostheses, development of medical devices,     manufacturing of embedded systems, implementation of Machine Learning algorithms and Artificial Intelligence.
+      Biomedical Engineer from the Universidad de los Andes with knowledge in the implementation of embedded systems using different device programming platforms such as FPGA, arduino, PIC microcontrollers and Raspberry Pi. Experience in data analysis and programming of Machine Learning algorithms. Experience in the analysis of control systems, signal processing, image analysis, system modeling, programming in different programming languages and tools such as Python, C++, SQL, Spark, Google Cloud Platform and Verilog. Leadership skills, achievement-oriented planning, and algorithmic thinking. Interest in the area of robotics, design and manufacture of prostheses, development of medical devices, manufacturing of embedded systems, implementation of Machine Learning algorithms and Artificial Intelligence.
 
 education:
     - degree: BSc in Biomedical Engineering
       university: Universidad de los Andes
       time: 2015 - 2018
       details: |
-          GPA: 4.05/5.00 
+        GPA: 4.05/5.00 
 
 experiences:
     - role: Professional 2
@@ -62,13 +62,12 @@ experiences:
       time: 2019 - 2020
       company: Seguros Bolivar S.A.S
       details: |
-        Construction of information extraction, transformation and loading processes from different sources to databases. Project development, 
-        solution of database user requirements depending on the needs of the area.
+        Construction of information extraction, transformation and loading processes from different sources to databases. Project development, solution of database user requirements depending on the needs of the area.
 
     - role: Tutor
       time: 2018 - 2019
       details: |
-       Private tutorials in the areas of Circuits and Instrumentation, Signal Processing and Control Systems Analysis.
+        Private tutorials in the areas of Circuits and Instrumentation, Signal Processing and Control Systems Analysis.
 
 projects:
     title: Projects
