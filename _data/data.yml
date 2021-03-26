@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Daniel Felipe Barón Espitia
-    tagline: Full Stack Developer
+    tagline: Biomedical Engineer
     avatar: profile_picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,142 +42,82 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+
+    Biomedical Engineer from the Universidad de los Andes with knowledge in the implementation of embedded systems using different device programming platforms such as FPGA, 
+    arduino, PIC microcontrollers and Raspberry Pi. Experience in data analysis and programming of Machine Learning algorithms. Experience in the analysis of control systems, 
+    signal processing, image analysis, system modeling, programming in different programming languages and tools such as Python, C ++, SQL, Spark, Google Cloud Platform and Verilog. 
+    Leadership skills, achievement-oriented planning, and algorithmic thinking. Interest in the area of robotics, design and manufacture of prostheses, development of medical devices, 
+    manufacturing of embedded systems, implementation of Machine Learning algorithms and Artificial Intelligence.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Biomedical Engineering
+      university: Universidad de los Andes
+      time: 2015 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          GPA: 4.05/5.00 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Professional 2
+      time: August 2020 - Present
+      company: Seguros Bolivar S.A.S
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Development and migration of projects with the Data Engineering area using On-Cloud tools in Google Cloud Platform.
+
+    - role: Analytical Executive Assistant
+      time: 2019 - 2020
+      company: Seguros Bolivar S.A.S
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Construction of information extraction, transformation and loading processes from different sources to databases. Project development, 
+        solution of database user requirements depending on the needs of the area.
+
+    - role: Tutor
+      time: 2018 - 2019
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Private tutorials in the areas of Circuits and Instrumentation, Signal Processing and Control Systems Analysis.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Microfluidic system for controlled drug release
+        role: Investigator
+        tagline: Development project of a microfluidic system capable of generating alginate capsules and encapsulating different compounds.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: PID controller for aerodynamic pendulum
+        role: Hardware Developer and Programmer
+        tagline: Low-cost aero pendulum development project in order to control a process and obtain a better response using PID controllers. 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Game System using Inertial Sensor and FPGA
+        role: Hardware Developer and Programmer
+        tagline: Development project of an interactive game system using sensors that detect inclination or acceleration (accelerometers) and a programming platform called FPGA.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Oxygen saturation measuring device
+        role: Hardware Developer and Programmer
+        tagline: Degree project based on the development of a medical device capable of quickly and efficiently measuring the oxygen saturation of patients in emergency conditions and regardless of the contact surface to perform said measurement.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Gait analysis System using Inertial Sensors
+        role: Hardware Developer and Programmer
+        tagline: Research project in the development of a gait analysis system in order to generate autonomous prostheses or to replace current gait analysis systems.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: GCP
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Spark
+        level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C++
+        level: 40%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Verilog
+        level: 30%
 
-      - name: Sketch & Photoshop
+      - name: Git
         level: 60%
 
 footer: >
